@@ -1,0 +1,72 @@
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.csproj.AssemblyReference.cache
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.GeneratedMSBuildEditorConfig.editorconfig
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.AssemblyInfoInputs.cache
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.AssemblyInfo.cs
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.csproj.CoreCompileInputs.cache
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.MvcApplicationPartsAssemblyInfo.cache
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.RazorAssemblyInfo.cache
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.RazorAssemblyInfo.cs
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/appsettings.Development.json
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/appsettings.json
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/global.json
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/FundStream.staticwebassets.runtime.json
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/FundStream
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/FundStream.deps.json
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/FundStream.runtimeconfig.json
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/FundStream.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/FundStream.pdb
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Humanizer.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/MySqlConnector.dll
+/home/hekolcu/Desktop/FundStream/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/staticwebassets.build.json
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/staticwebassets.development.json
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/scopedcss/bundle/FundStream.styles.css
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/scopedcss/projectbundle/FundStream.bundle.scp.css
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.csproj.CopyComplete
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.dll
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/refint/FundStream.dll
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.pdb
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/FundStream.genruntimeconfig.cache
+/home/hekolcu/Desktop/FundStream/obj/Debug/net6.0/ref/FundStream.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\global.json
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\FundStream.staticwebassets.runtime.json
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\FundStream.exe
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\FundStream.deps.json
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\FundStream.runtimeconfig.json
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\FundStream.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\FundStream.pdb
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Desktop\New folder\FundStream\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\scopedcss\bundle\FundStream.styles.css
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\scopedcss\projectbundle\FundStream.bundle.scp.css
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.dll
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\refint\FundStream.dll
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.pdb
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\FundStream.genruntimeconfig.cache
+C:\Users\User\Desktop\New folder\FundStream\obj\Debug\net6.0\ref\FundStream.dll

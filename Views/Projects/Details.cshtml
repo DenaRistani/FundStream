@@ -1,0 +1,57 @@
+@model FundStream.Models.Project
+@{
+    ViewData["Title"] = "Project Details";
+    // Calculate the number of days left and the percentage of the goal reached
+    int daysLeft = (Model.EndDate - DateTime.Today).Days;
+    double percentageReached = (double) (Model.AmountRaised / Model.GoalAmount * 100);
+    var loggedInUserId = ViewBag.LoggedInUserId as int?;
+    var hasContributed = ViewBag.HasContributed;
+    if (ViewBag.HasContributed != null)
+        hasContributed = ViewBag.HasContributed;
+}
+
+<div class="text-center">
+    <h2>@Model.Title</h2>
+    <p class="lead">@Model.Description</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2 class="display-4">@Model.AmountRaised.ToString("C")</h2>
+        <h4>Pledged of @Model.GoalAmount.ToString("C") goal</h4>
+        <h2 class="mt-2">@Model.Contributions.Count</h2>
+        <h4>Supporters</h4>
+        <h2>Ends: @Model.EndDate.ToString("MMMM d")</h2>
+        <h2 class="text-info">@daysLeft days left</h2>
+    </div>
+
+    <div class="col-md-6">
+        @if (Model.Creator?.UserId == loggedInUserId)
+        {
+            <h2 class="text-warning">Cannot pledge to your own project!</h2>
+        }
+        else if (hasContributed == true)
+        {
+            <h2 class="text-success">Thank you for contributing!</h2>
+        }
+        else
+        {
+            <div>
+                <h2>Support this Project</h2>
+                <form asp-controller="Projects" asp-action="Support" method="post">
+                    <input type="hidden" asp-for="ProjectId" />
+                    <div class="form-group">
+                        <input type="number" name="supportAmount" class="form-control" min="1" step="any" required />
+                    </div>
+                    <button type="submit" class="btn btn-primary mt-2">Support!</button>
+                </form>
+            </div>
+        }
+    </div>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-2">Back to List</a>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
